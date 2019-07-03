@@ -14,4 +14,6 @@ scoop update
 
 ## Add this bucket
 
+```powershell
 scoop bucket add tomasaschan https://github.com/tomasaschan/taschan-scoops
+```
