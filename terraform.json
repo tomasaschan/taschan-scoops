@@ -1,0 +1,10 @@
+{
+    "homepage": "https://www.terraform.io",
+    "license": "MPL-2.0",
+    "version": "0.12.4,
+    "architecture": {
+        "64bit": {
+            "url": "https://releases.hashicorp.com/terraform/0.12.4/terraform_0.12.4_windows_amd64.zip"
+        }
+    }
+}
